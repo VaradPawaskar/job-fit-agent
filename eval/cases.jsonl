@@ -1,0 +1,3 @@
+{"id": "ml-working-student", "job_file": "samples/sample_job_posting.txt", "expect": {"python": ["match"], "pytorch": ["match", "partial"], "docker": ["match", "partial"], "kubernetes": ["missing"], "langchain": ["missing", "partial"]}}
+{"id": "bi-analyst", "job_text": "Data Analyst (m/f/d). Required: SQL, Power BI, Tableau dashboards, A/B testing and statistics. Nice to have: Python.", "expect": {"power bi": ["missing"], "tableau": ["missing"], "sql": ["match", "partial"], "python": ["match", "partial"]}}
+{"id": "java-backend", "job_text": "Backend Engineer. Required: Java, Spring Boot, REST APIs, AWS. Nice to have: Apache Kafka, Docker.", "expect": {"java": ["match"], "spring boot": ["match"], "kafka": ["missing"], "docker": ["match", "partial"]}}

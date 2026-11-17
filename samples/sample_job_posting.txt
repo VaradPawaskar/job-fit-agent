@@ -1,0 +1,20 @@
+(Fictional posting for testing.)
+
+Working Student AI Engineer (m/f/d) - Example GmbH, Munich
+
+About the role
+You will help us build and ship machine learning features for our logistics platform.
+
+Your tasks
+- Train and evaluate machine learning models in Python
+- Build REST APIs around models with FastAPI
+- Package services with Docker and deploy them to the cloud (AWS preferred)
+- Work with LLMs, retrieval-augmented generation and agent frameworks such as LangChain
+- Collaborate with the team in an agile setup
+
+What you bring
+- Enrolled in a Master's program in computer science, AI or a related field
+- Solid Python skills and experience with PyTorch or TensorFlow
+- Good SQL knowledge
+- Good English; German is a plus
+- Nice to have: Kubernetes, MLflow, CI/CD experience

@@ -1,0 +1,30 @@
+Alex Example
+Target: Working student, AI / Machine Learning
+
+Education
+M.Sc. Artificial Intelligence and Robotics, Example University of Applied Sciences, since 2025
+B.E. Electronics and Telecommunications Engineering, 2018 - 2022
+
+Experience
+Software Engineer, Example Corp (2023 - 2025)
+Migrated 10+ Spring Batch applications for a banking client from Java 7 to Java 17.
+Validated changes with unit tests, CI/CD pipeline checks and batch runs on test servers.
+Deployed validated changes to production through the team's CI/CD pipeline.
+Worked in Agile teams using Git, Maven, Gradle and Jira.
+
+Projects
+Diffusion model for face generation in PyTorch
+Implemented a time-conditioned U-Net with self-attention and DDPM / DDIM sampling.
+Trained with AdamW, mixed precision and exponential moving average checkpoints.
+
+Explainable heart disease classification
+Compared Logistic Regression, Random Forest and XGBoost with scikit-learn and pandas.
+Built a Streamlit app with SHAP explanations.
+
+Order and inventory application
+Spring Boot, Hibernate and SQL application deployed on AWS EC2 with Docker.
+
+Skills
+Python, Java, SQL, PyTorch, scikit-learn, XGBoost, pandas, NumPy, SHAP, Streamlit
+Docker, AWS EC2, Linux, Git, Maven, Gradle
+Languages: English (fluent), German (B1)
