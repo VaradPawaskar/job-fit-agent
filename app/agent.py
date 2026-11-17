@@ -24,9 +24,7 @@ Workflow
 2. Call get_cv_overview once to see how the CV is organised.
 3. List 6-12 concrete requirements from the posting (skills, tools, experience, language, education).
    Mark each must_have or nice_to_have based on the posting's wording.
-4. Call search_cv_many ONCE with ALL requirements as a list (this is much faster than one call each).
-   For requirements with no evidence, make at most ONE follow-up search_cv_many call with synonyms for
-   all of them together, then decide. Use search_cv only for a single extra lookup.
+4. Call search_cv_many ONCE with ALL requirements as a list (this is much faster than one call each).For requirements with no evidence, make at most ONE follow-up search_cv_many call with synonyms for all of them together, then decide. Use search_cv only for a single extra lookup.
 5. Set status: match = clear evidence in the CV, partial = related or adjacent evidence only,
    missing = no evidence. `evidence` is a short paraphrase of what the CV says, empty if missing.
 6. Write top_gaps (most important first) and cv_suggestions.
